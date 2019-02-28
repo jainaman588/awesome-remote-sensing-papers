@@ -42,7 +42,13 @@ A curated list of the best remote sensing papers by category
 
 ### Time Series and Trend Analysis
 - **Detecting trend and seasonal changes in satellite image time series** (2010), J. Verbesselt et al. [[pdf]](https://www.researchgate.net/publication/222561032_Detecting_trend_and_seasonal_changes_in_satellite_image_time_series)  
+- **An automated approach for reconstructing recent forest disturbance history using dense Landsat time series stacks** (2010), C. Huang et al. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0034425709002685)
 - **Detecting Change Dates from Dense Satellite Time Series Using a Sub-Annual Change Detection Algorithm** (2015), S. Cai et al. [[pdf]](http://www.mdpi.com/2072-4292/7/7/8705)
+- **Regional detection, characterization, and attribution of annual forest change from 1984 to 2012 using Landsat-derived time-series metrics** (2015), T. Hermosilla et al. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0034425715301279)
+- **A nationwide annual characterization of 25 years of forest disturbance and recovery for Canada using Landsat time series** (2017), J.C. White et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425717301360)
+- **Methods for Mapping Forest Disturbance and Degradation from Optical Earth Observation Data: a Review** (2017) M. Hirschmugl et al. [[pdf]](https://link.springer.com/article/10.1007%2Fs40725-017-0047-2)
+- **Mapping tropical disturbed forests using multi-decadal 30 m optical satellite imagery** (2019) Y. Wang et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425718305376)
+
 
 ### Tools
 - **Google Earth Engine: Planetary-scale geospatial analysis for everyone** (2017), N. Gorelick et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
