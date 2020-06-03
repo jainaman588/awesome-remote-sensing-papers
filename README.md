@@ -5,6 +5,7 @@ A curated list of the best remote sensing papers by category
 - **Implementation of machine-learning classification in remote sensing: an applied review** (2018), A.E. Maxwell et al. [[pdf]](https://www.tandfonline.com/doi/full/10.1080/01431161.2018.1433343)
 
 ### Deep Learning
+- **Change Detection Based on Artificial Intelligence: State-of-the-Art and Challenges** (2020), Shi, Wenzhong, et al. [[pdf]](https://www.mdpi.com/2072-4292/12/10/1688/htm)
 - **Deep-learning Versus OBIA for Scattered Shrub Detection with Google Earth Imagery: Ziziphus lotus as Case Study** (2017), E. Guirado et al. [[pdf]](http://www.mdpi.com/2072-4292/9/12/1220)
 - **Transferring Deep Convolutional Neural Networks for the Scene Classification of High-Resolution Remote Sensing Imagery** (2015), F. Hu et al. [[pdf]](http://www.mdpi.com/2072-4292/7/11/14680)
 - **Classification for High Resolution Remote Sensing Imagery Using a Fully Convolutional Network** (2017), G. Fu et al. [[pdf]](http://www.mdpi.com/2072-4292/9/5/498)
